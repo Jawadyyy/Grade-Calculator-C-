@@ -47,7 +47,7 @@ The following grading scale is used in the program:
 - D+: 1.3
 - D: 1.0
 - D-: 0.7
-
+- F: 0.0
 
 ## License
 
@@ -56,8 +56,3 @@ This project is licensed under the MIT License.
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests with your improvements.
-
-- F: 0.0
-
-## Example
-
